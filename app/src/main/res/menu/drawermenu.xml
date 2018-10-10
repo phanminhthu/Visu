@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mTutor"
+        android:icon="@drawable/run_activity"
+        android:title="Gia sư" />
+    <item
+        android:id="@+id/mTeacher"
+        android:icon="@drawable/cupcake"
+        android:title="Giáo viên" />
+    <item
+        android:id="@+id/mSetting"
+        android:icon="@drawable/settings"
+        android:title="Cài đặt" />
+</menu>
